@@ -1,0 +1,12 @@
+{
+  "name": "node-basic",
+  "version": "1.0.0",
+  "description": "simple website with node.js as the server script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "N. Rajan",
+  "license": "ISC"
+}
